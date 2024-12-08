@@ -24,3 +24,6 @@
     font-size: 15px;
     border-radius: 8px;
 }
+.form-wrapper .error{
+    background: #D9544D;
+}
